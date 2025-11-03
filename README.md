@@ -19,30 +19,32 @@ During this internship, I:
 
 ## Project Structure
 
+Internship_Matlab/
 │── README.md
 │── .gitignore
 └── src/
-  ├── addition.m
-  ├── bar_plot.m
-  ├── decision_tree.m
-  ├── decision_tree_split.m
-  ├── descriminate_analysis.m
-  ├── discriminate_analysis_types.m
-  ├── distance_and_distribution.m
-  ├── distance_distribution/
-  ├── for.m
-  ├── image_classification.m
-  ├── kmeans/
-  ├── kmeans2/
-  ├── knn_5.m
-  ├── knn_distance.m
-  ├── knn_plot.m
-  ├── naive_bayes.m
-  ├── preprocessing.m
-  ├── supervised_knn.m
-  ├── supervised_para.m
-  ├── svm.m
-  ├── svm_kernel.m
+    ├── addition.m
+    ├── bar_plot.m
+    ├── decision_tree.m
+    ├── decision_tree_split.m
+    ├── descriminate_analysis.m
+    ├── discriminate_analysis_types.m
+    ├── distance_and_distribution.m
+    ├── distance_distribution/
+    ├── for.m
+    ├── image_classification.m
+    ├── kmeans/
+    ├── kmeans2/
+    ├── knn_5.m
+    ├── knn_distance.m
+    ├── knn_plot.m
+    ├── naive_bayes.m
+    ├── preprocessing.m
+    ├── supervised_knn.m
+    ├── supervised_para.m
+    ├── svm.m
+    ├── svm_kernel.m
+
 
 ## Key Algorithms & Techniques Implemented
 
