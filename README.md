@@ -17,11 +17,12 @@ During this internship, I:
 
 ---
 
-## Project Structure
+## Repository Structure
 
+<pre>
 Internship_Matlab/
-│── README.md
-│── .gitignore
+├── README.md
+├── .gitignore
 └── src/
     ├── addition.m
     ├── bar_plot.m
@@ -43,7 +44,8 @@ Internship_Matlab/
     ├── supervised_knn.m
     ├── supervised_para.m
     ├── svm.m
-    ├── svm_kernel.m
+    └── svm_kernel.m
+</pre>
 
 
 ## Key Algorithms & Techniques Implemented
